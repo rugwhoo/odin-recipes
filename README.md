@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first project in the foundations section of the odin project. A recipes html project which utilizes multiple tags and their accompanying features like the interlinking of pages, adding different kinds of text on the page, adding images etc. Also learned how to structure files within the project and used git to push and track changes made to the project. The recipes are all original and will make a wonderful, mouth-watering meal. 
